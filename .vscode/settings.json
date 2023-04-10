@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./rust_first_project/Cargo.toml",
+        "./rust_first_project/Cargo.toml",
+        "./manipulate_strings/Cargo.toml",
+        "./math/Cargo.toml"
+    ]
+}
