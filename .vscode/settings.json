@@ -4,6 +4,7 @@
         "./rust_first_project/Cargo.toml",
         "./manipulate_strings/Cargo.toml",
         "./math/Cargo.toml",
-        "./decision_making/Cargo.toml"
+        "./decision_making/Cargo.toml",
+        "./for_loop/Cargo.toml"
     ]
 }
