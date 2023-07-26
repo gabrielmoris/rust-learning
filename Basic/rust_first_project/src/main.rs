@@ -11,6 +11,7 @@ fn main() {
     let icon = '❤';
 
     // Integrer data type (i can specify which kind of data I want)
+    // starting with i are signed integers (+,-). Starting with u are unsigned integers
     let integer: i32 = 20 - 30;
     let integer2: u32 = 10;
     let mark: isize = 10;
@@ -26,6 +27,8 @@ fn main() {
     println!("this is a boolean: {}", boolean);
     println!("this is an icon: {}", icon);
     println!("this is an i32 integer: {}", integer);
+    println!("this is the biggest i32 integer: {}", i32::MAX);
+    println!("this is the biggest usize integer: {}", usize::MAX);
     println!("this is an u32 integer: {}", integer2);
     println!("this is a mark: {}", mark);
     println!("this is a count: {}", count);
