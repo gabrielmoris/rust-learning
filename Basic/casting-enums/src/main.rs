@@ -1,3 +1,4 @@
+#![allow(unused)]
 fn main() {
     // casting
     let int_u8: u8 = 5;
